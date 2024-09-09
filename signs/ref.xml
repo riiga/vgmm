@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sign style="sweden">
+    <ystack align="left">
+        <xstack color="blue" bordercolor="white">
+            <arrow color="white" direction="up"/>
+            <shield color="blue" textcolor="white" bordercolor="white">80</shield>
+        </xstack>
+        <xstack color="blue" bordercolor="white">
+            <arrow color="white" direction="left"/>
+            <shield color="blue" textcolor="white" bordercolor="white">272</shield>
+            <text color="white" font="default">BOLLNÄS</text>
+        </xstack>
+        <xstack color="blue" bordercolor="white">
+            <text color="white" font="default">FORSBACKA</text>
+        </xstack>
+        <xstack color="blue" bordercolor="white" align="center">
+            <text color="white" font="default">500 m</text>
+        </xstack>
+    </ystack>
+</sign>
